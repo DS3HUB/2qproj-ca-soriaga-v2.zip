@@ -1,0 +1,35 @@
+<DOCTYPE html>
+<html>
+      <head>
+	     <style>
+     /* saved inside ca_soriaga_1qproj_v2.html */
+         div {
+			   background-color: lightgrey;
+               padding: 15px;
+
+             }
+		 h1{
+			  background-color: lightgrey;
+		 }
+           #img1 {
+                     z-index: 1;
+                     position: relative;
+                     left: 60px;
+
+              }
+			#img2 {
+                     z-index: 10;
+                     position: relative;
+                     left: 480px;
+
+              }
+					 
+	</style>
+	  </head>
+	  <body> 
+	        <div>
+			     <h1></h1>
+				 <p></p>
+			</div>
+	  </body>
+</html>
